@@ -56,3 +56,6 @@ Guess there are better and more efficient RLE encoder/decoders out there.
 Because i'm kinda convinced you cannot make the actual calculations,  draw the 12 lines in color ram, in 1 frame.
 
 Hope you enjoy the demo :)
+
+PS. I am not sure why the raster jumps up in the screen @1:30 of the video i recorded (rlecube8.mp4)
+Anyone knows?
