@@ -5,7 +5,7 @@ RLE Cube in 256 frames.
 50 FPS; that is 256.000 bytes, blasted to color ram in 5.12 seconds.
 And there is even time for a quick SID,  scrolling around and fly a sprite.
 
-The colorful cube is conpletely precalculated from BASIC (see file "1byterle.bas")
+The colorful cube is completely precalculated from BASIC (see file "1byterle.bas")
 using RLE compression: (https://en.wikipedia.org/wiki/Run-length_encoding)
 Each frame is using around 100-200 bytes, so there is room to store 256 frames.
 (file: 1byterle256.seq; 45.793 bytes)
