@@ -52,7 +52,7 @@ So there is time to change some values in the running code at this time. Not ful
 
 I know this is probably a DOH moment for many, but as mentioned; i am new at democoding.
 
-Guess there are better and more efficiant RLE encoder/decoders out there.
+Guess there are better and more efficient RLE encoder/decoders out there.
 Because i'm kinda convinced you cannot make the actual calculations,  draw the 12 lines in color ram, in 1 frame.
 
 Hope you enjoy the demo :)
