@@ -48,7 +48,7 @@ Now the colorchange can happen in the data read loop.
 All i gotta do is change the EOR value when the animation is ending.
 (Tried with inc, dec, adc, sbc, or, and ... eor is magic)
 Btw, the start and end of the animation takes less cycles to decode since its a simpler image.
-So there is time to change some values in the runnung code at this time. Not fully exploited yet.
+So there is time to change some values in the running code at this time. Not fully exploited yet.
 
 I know this is probably a DOH moment for many, but as mentioned; i am new at democoding.
 
