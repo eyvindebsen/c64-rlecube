@@ -43,6 +43,7 @@ tax       (2 cycles)
 
 This eats 6 cycles, but LAX loads the A and X register at the same time using only 4 cycles
 (https://www.c64-wiki.com/wiki/LAX)
+(https://www.pagetable.com/?p=39)
 
 Now the colorchange can happen in the data read loop.
 All i gotta do is change the EOR value when the animation is ending.
