@@ -1,0 +1,3 @@
+exomizer.exe sfx $080d  rlecubedemo.prg
+
+exomizer.exe sfx systrim -n  rlecubedemo.prg
